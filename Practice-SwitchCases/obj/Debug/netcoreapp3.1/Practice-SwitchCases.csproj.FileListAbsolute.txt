@@ -1,0 +1,13 @@
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-SwitchCases\Practice-SwitchCases\bin\Debug\netcoreapp3.1\Practice-SwitchCases.exe
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-SwitchCases\Practice-SwitchCases\bin\Debug\netcoreapp3.1\Practice-SwitchCases.deps.json
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-SwitchCases\Practice-SwitchCases\bin\Debug\netcoreapp3.1\Practice-SwitchCases.runtimeconfig.json
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-SwitchCases\Practice-SwitchCases\bin\Debug\netcoreapp3.1\Practice-SwitchCases.runtimeconfig.dev.json
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-SwitchCases\Practice-SwitchCases\bin\Debug\netcoreapp3.1\Practice-SwitchCases.dll
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-SwitchCases\Practice-SwitchCases\bin\Debug\netcoreapp3.1\Practice-SwitchCases.pdb
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-SwitchCases\Practice-SwitchCases\obj\Debug\netcoreapp3.1\Practice-SwitchCases.csprojAssemblyReference.cache
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-SwitchCases\Practice-SwitchCases\obj\Debug\netcoreapp3.1\Practice-SwitchCases.AssemblyInfoInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-SwitchCases\Practice-SwitchCases\obj\Debug\netcoreapp3.1\Practice-SwitchCases.AssemblyInfo.cs
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-SwitchCases\Practice-SwitchCases\obj\Debug\netcoreapp3.1\Practice-SwitchCases.csproj.CoreCompileInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-SwitchCases\Practice-SwitchCases\obj\Debug\netcoreapp3.1\Practice-SwitchCases.dll
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-SwitchCases\Practice-SwitchCases\obj\Debug\netcoreapp3.1\Practice-SwitchCases.pdb
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-SwitchCases\Practice-SwitchCases\obj\Debug\netcoreapp3.1\Practice-SwitchCases.genruntimeconfig.cache
